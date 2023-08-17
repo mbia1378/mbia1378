@@ -63,4 +63,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aveybd&" alt="mbia1378" /></p>
 
-![](https://komarev.com/ghpvc/?username=mbia1378&color=green)
+![](https://komarev.com/ghpvc/?username=mbia1378&label=PROFILE+VIEWS)
