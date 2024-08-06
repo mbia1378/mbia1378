@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://twitter.com/mbia_cyrille" target="blank"><img src="https://img.shields.io/twitter/follow/mbia_cyrille?logo=twitter&style=for-the-badge" alt="mbia_cyrille" /></a> </p>
 
-- 🔭 I’m currently working on [Laravel](https://github.com/laravel/laravel)
+- 🔭 I’m currently working on [Flutter](https://flutter.dev/)
 
-- 🌱 I’m currently learning **Flutter, How It's Works**
+- 🌱 I’m currently learning **Kubernetes, How It's Works**
 
 - 👨‍💻 All of my open projects are available at [https://github.com/mbia1378](https://github.com)
 
 - 📝 I regularly write articles on [https://itdreamtech.com](https://itdreamtech.com)
 
-- 💬 Ask me about **Laravel, Java Android studio, WordPress etc...**
+- 💬 Ask me about **Laravel, Java Android studio, Flutter etc...**
 
 - 📫 How to reach me **cyrille@itdreamtech.com**
 
