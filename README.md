@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Cyrille MBIA</h1>
-<h3 align="center">A lover of security and code lover from Yaounde - Cameroon</h3>
+<h3 align="center">A lover of security and code from Yaounde - Cameroon</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mbia1378" alt="mbia1378" /></a> </p>
 
