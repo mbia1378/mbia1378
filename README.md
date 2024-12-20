@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **cyrille@itdreamtech.com**
 
-- ⚡ I love **Code, Okok, Musics, Movies**
+- ⚡ I love **IT Security, Code, Okok, Musics, Movies**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
