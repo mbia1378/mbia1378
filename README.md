@@ -1,19 +1,21 @@
 <h1 align="center">Hi 👋, I'm Cyrille MBIA</h1>
-<h3 align="center">A code lover from Yaounde - Cameroon</h3>
+<h3 align="center">A lover of security and code lover from Yaounde - Cameroon</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mbia1378" alt="mbia1378" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/mbia_cyrille" target="blank"><img src="https://img.shields.io/twitter/follow/mbia_cyrille?logo=twitter&style=for-the-badge" alt="mbia_cyrille" /></a> </p>
 
-- 🔭 I’m currently working on [Flutter](https://flutter.dev/)
+- 🔭 I’m currently working on **Optimization of IT infrastructure security**
+
+- 🔭 I implemented [Flutter](https://flutter.dev/) based applications
 
 - 🌱 I’m currently learning **Kubernetes, How It's Works**
 
 - 👨‍💻 All of my open projects are available at [https://github.com/mbia1378](https://github.com)
 
-- 📝 I regularly write articles on [https://itdreamtech.com](https://itdreamtech.com)
+- 📝 I regularly write articles on [https://itdreamtech.com](https://itdreamtech.com) & [https://web.facebook.com/cyrille.mbia](https://facebook.com)
 
-- 💬 Ask me about **Laravel, Java Android studio, Flutter etc...**
+- 💬 Ask me about **CEH, Laravel, Java Android studio, Flutter etc...**
 
 - 📫 How to reach me **cyrille@itdreamtech.com**
 
